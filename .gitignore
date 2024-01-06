@@ -1,0 +1,9 @@
+.DS_Store
+
+# xp
+CarbonCubEX3.acf~
+CarbonCubEX3_prefs.txt
+
+# plugin ignores
+plugins/CarbonCubEX3/data/output/SASLLog.txt
+plugins/CarbonCubEX3/data/modules/state.txt
