@@ -12,38 +12,27 @@ panelHeight2d = 4096
 panelWidth3d = 4096
 panelHeight3d = 4096
 
-size = { 4096, 4096 }
+size = {4096, 4096}
 
 globalShowInteractiveAreas = true
 
 -- shared sim datarefs
-sim_main_battery   = globalPropertyiae("sim/cockpit2/electrical/battery_on", 1)
+sim_main_battery = globalPropertyiae("sim/cockpit2/electrical/battery_on", 1)
 sim_backup_battery = globalPropertyiae("sim/cockpit2/electrical/battery_on", 2)
 
 -- components
-components = {
-    fuel_selector {},
-    lights {},
-    hatches {},
-    electrical {},
-    -- digital instruments
-    smart_monitor {
-        position = { 2980, 2919, 282, 202 }
-    },
-    cgr_30p_engine_monitor {
-        position = { 115, 119, 1077, 811 },
-    },
-    garmin_aera_796 {
-        position = { 117, 2370, 2704, 1659 },
-    },
-    trig_tt21_mode_s_xpdr {
-        position = { 2980, 3322, 453, 244 }
-    },
-    trig_ty91_vhf_radio {
-        position = { 2980, 3767, 453, 244 }
-    },
-    avitab {}
-}
+components = {fuel_selector {}, lights {}, hatches {}, electrical {}, -- digital instruments
+smart_monitor {
+    position = {2980, 2919, 282, 202}
+}, cgr_30p_engine_monitor {
+    position = {115, 119, 1077, 811}
+}, garmin_aera_796 {
+    position = {117, 2370, 2704, 1659}
+}, trig_tt21_mode_s_xpdr {
+    position = {2980, 3322, 453, 244}
+}, trig_ty91_vhf_radio {
+    position = {2980, 3767, 453, 244}
+}, avitab {}}
 
 -- draw all components
 function draw()

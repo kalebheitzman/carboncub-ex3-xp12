@@ -1,10 +1,10 @@
 include("datarefs.lua")
 include("commands.lua")
 
-avi_left    = 140
-avi_bottom  = 2185
-avi_width   = 2653
-avi_height  = 1990
+avi_left = 140
+avi_bottom = 2185
+avi_width = 2653
+avi_height = 1990
 
 onModuleInit = function()
 

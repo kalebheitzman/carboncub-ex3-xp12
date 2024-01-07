@@ -3,9 +3,9 @@ I
 OBJ
 
 GLOBAL_cockpit_lit
-TEXTURE	glass.png
-TEXTURE_LIT	glass_LIT.png
-TEXTURE_NORMAL	glass_NRM.png
+TEXTURE	Glass.png
+TEXTURE_LIT	Glass_LIT.png
+TEXTURE_NORMAL	Glass_NRM.png
 BLEND_GLASS
 POINT_COUNTS	2154	0	0	2154
 

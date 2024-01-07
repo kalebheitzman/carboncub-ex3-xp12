@@ -1,9 +1,9 @@
 {
-    "panel": {
-        "left":     140,
-        "bottom":   2185,
-        "width":    2653,
-        "height":   1990,
-        "enabled": false
-    }
+  "panel": {
+    "left": 140,
+    "bottom": 2185,
+    "width": 2653,
+    "height": 1990,
+    "enabled": true
+  }
 }
