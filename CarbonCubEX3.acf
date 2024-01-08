@@ -3431,9 +3431,9 @@ P _obja/1/_v10_att_y_acf_prt_ref -0.500000000
 P _obja/1/_v10_att_z_acf_prt_ref 0.000000000
 P _obja/1/_v10_is_internal 0
 P _obja/1/_v10_steers_with_gear 0
-P _obja/10/_obj_flags 1
+P _obja/10/_obj_flags 25
 P _obja/10/_v10_att_body -1
-P _obja/10/_v10_att_file_stl Tablet.obj
+P _obja/10/_v10_att_file_stl TopPanel.obj
 P _obja/10/_v10_att_gear -1
 P _obja/10/_v10_att_phi_ref 0.000000000
 P _obja/10/_v10_att_psi_ref 0.000000000
@@ -3442,11 +3442,11 @@ P _obja/10/_v10_att_wing -1
 P _obja/10/_v10_att_x_acf_prt_ref 0.000000000
 P _obja/10/_v10_att_y_acf_prt_ref -0.500000000
 P _obja/10/_v10_att_z_acf_prt_ref 0.000000000
-P _obja/10/_v10_is_internal -1431655766
+P _obja/10/_v10_is_internal 0
 P _obja/10/_v10_steers_with_gear 0
-P _obja/11/_obj_flags 25
+P _obja/11/_obj_flags 56
 P _obja/11/_v10_att_body -1
-P _obja/11/_v10_att_file_stl TopPanel.obj
+P _obja/11/_v10_att_file_stl Wheels.obj
 P _obja/11/_v10_att_gear -1
 P _obja/11/_v10_att_phi_ref 0.000000000
 P _obja/11/_v10_att_psi_ref 0.000000000
@@ -3459,7 +3459,7 @@ P _obja/11/_v10_is_internal 0
 P _obja/11/_v10_steers_with_gear 0
 P _obja/12/_obj_flags 56
 P _obja/12/_v10_att_body -1
-P _obja/12/_v10_att_file_stl Wheels.obj
+P _obja/12/_v10_att_file_stl Wings.obj
 P _obja/12/_v10_att_gear -1
 P _obja/12/_v10_att_phi_ref 0.000000000
 P _obja/12/_v10_att_psi_ref 0.000000000
@@ -3468,11 +3468,11 @@ P _obja/12/_v10_att_wing -1
 P _obja/12/_v10_att_x_acf_prt_ref 0.000000000
 P _obja/12/_v10_att_y_acf_prt_ref -0.500000000
 P _obja/12/_v10_att_z_acf_prt_ref 0.000000000
-P _obja/12/_v10_is_internal 0
+P _obja/12/_v10_is_internal -1431655766
 P _obja/12/_v10_steers_with_gear 0
-P _obja/13/_obj_flags 56
+P _obja/13/_obj_flags 7
 P _obja/13/_v10_att_body -1
-P _obja/13/_v10_att_file_stl Wings.obj
+P _obja/13/_v10_att_file_stl Instruments_VFR.obj
 P _obja/13/_v10_att_gear -1
 P _obja/13/_v10_att_phi_ref 0.000000000
 P _obja/13/_v10_att_psi_ref 0.000000000
@@ -3498,7 +3498,7 @@ P _obja/2/_v10_is_internal 0
 P _obja/2/_v10_steers_with_gear 0
 P _obja/3/_obj_flags 32
 P _obja/3/_v10_att_body -1
-P _obja/3/_v10_att_file_stl Hatches.obj
+P _obja/3/_v10_att_file_stl Frame.obj
 P _obja/3/_v10_att_gear -1
 P _obja/3/_v10_att_phi_ref 0.000000000
 P _obja/3/_v10_att_psi_ref 0.000000000
@@ -3524,7 +3524,7 @@ P _obja/4/_v10_is_internal 0
 P _obja/4/_v10_steers_with_gear 0
 P _obja/5/_obj_flags 25
 P _obja/5/_v10_att_body -1
-P _obja/5/_v10_att_file_stl Instruments.obj
+P _obja/5/_v10_att_file_stl Interior.obj
 P _obja/5/_v10_att_gear -1
 P _obja/5/_v10_att_phi_ref 0.000000000
 P _obja/5/_v10_att_psi_ref 0.000000000
@@ -3537,7 +3537,7 @@ P _obja/5/_v10_is_internal 1
 P _obja/5/_v10_steers_with_gear 0
 P _obja/6/_obj_flags 25
 P _obja/6/_v10_att_body -1
-P _obja/6/_v10_att_file_stl Interior.obj
+P _obja/6/_v10_att_file_stl Panel.obj
 P _obja/6/_v10_att_gear -1
 P _obja/6/_v10_att_phi_ref 0.000000000
 P _obja/6/_v10_att_psi_ref 0.000000000
@@ -3546,11 +3546,11 @@ P _obja/6/_v10_att_wing -1
 P _obja/6/_v10_att_x_acf_prt_ref 0.000000000
 P _obja/6/_v10_att_y_acf_prt_ref -0.500000000
 P _obja/6/_v10_att_z_acf_prt_ref 0.000000000
-P _obja/6/_v10_is_internal 1
+P _obja/6/_v10_is_internal 0
 P _obja/6/_v10_steers_with_gear 0
-P _obja/7/_obj_flags 25
+P _obja/7/_obj_flags 24
 P _obja/7/_v10_att_body -1
-P _obja/7/_v10_att_file_stl Panel.obj
+P _obja/7/_v10_att_file_stl Propeller.obj
 P _obja/7/_v10_att_gear -1
 P _obja/7/_v10_att_phi_ref 0.000000000
 P _obja/7/_v10_att_psi_ref 0.000000000
@@ -3561,9 +3561,9 @@ P _obja/7/_v10_att_y_acf_prt_ref -0.500000000
 P _obja/7/_v10_att_z_acf_prt_ref 0.000000000
 P _obja/7/_v10_is_internal 0
 P _obja/7/_v10_steers_with_gear 0
-P _obja/8/_obj_flags 24
+P _obja/8/_obj_flags 25
 P _obja/8/_v10_att_body -1
-P _obja/8/_v10_att_file_stl Propeller.obj
+P _obja/8/_v10_att_file_stl Switches.obj
 P _obja/8/_v10_att_gear -1
 P _obja/8/_v10_att_phi_ref 0.000000000
 P _obja/8/_v10_att_psi_ref 0.000000000
@@ -3574,9 +3574,9 @@ P _obja/8/_v10_att_y_acf_prt_ref -0.500000000
 P _obja/8/_v10_att_z_acf_prt_ref 0.000000000
 P _obja/8/_v10_is_internal 0
 P _obja/8/_v10_steers_with_gear 0
-P _obja/9/_obj_flags 25
+P _obja/9/_obj_flags 1
 P _obja/9/_v10_att_body -1
-P _obja/9/_v10_att_file_stl Switches.obj
+P _obja/9/_v10_att_file_stl Tablet.obj
 P _obja/9/_v10_att_gear -1
 P _obja/9/_v10_att_phi_ref 0.000000000
 P _obja/9/_v10_att_psi_ref 0.000000000
@@ -3585,7 +3585,7 @@ P _obja/9/_v10_att_wing -1
 P _obja/9/_v10_att_x_acf_prt_ref 0.000000000
 P _obja/9/_v10_att_y_acf_prt_ref -0.500000000
 P _obja/9/_v10_att_z_acf_prt_ref 0.000000000
-P _obja/9/_v10_is_internal 0
+P _obja/9/_v10_is_internal -1431655766
 P _obja/9/_v10_steers_with_gear 0
 P _obja/count 14
 P _prop/0/_des_AOA_pwr 2.000000000
@@ -4168,9 +4168,9 @@ P _strut_t1 0.128906250
 P _strut_t2 0.252929688
 P _wing/0/_Croot 5.000000000
 P _wing/0/_Ctip 5.000000000
-P _wing/0/_afl_file_1 Clark-Y (good propeller).afl
-P _wing/0/_afl_file_2 Clark-Y (good propeller).afl
-P _wing/0/_afl_file_3 Clark-Y (good propeller).afl
+P _wing/0/_afl_file_1 NACA 2412 (popular).afl
+P _wing/0/_afl_file_2 NACA 2412 (popular).afl
+P _wing/0/_afl_file_3 NACA 2412 (popular).afl
 P _wing/0/_ailn1/0 0
 P _wing/0/_ailn1/1 0
 P _wing/0/_ailn1/2 0
@@ -5469,8 +5469,8 @@ P _wing/0/_incidence/2 2.000000000
 P _wing/0/_incidence/3 2.000000000
 P _wing/0/_incidence/4 2.000000000
 P _wing/0/_incidence/5 2.000000000
-P _wing/0/_incidence/6 0.000000000
-P _wing/0/_incidence/7 0.000000000
+P _wing/0/_incidence/6 2.000000000
+P _wing/0/_incidence/7 2.000000000
 P _wing/0/_incidence/8 0.000000000
 P _wing/0/_incidence/9 0.000000000
 P _wing/0/_incidence/count 10
@@ -5971,9 +5971,9 @@ P _wing/0/_yawbr/count 10
 P _wing/0/_yawbr_hyd0123 0
 P _wing/1/_Croot 5.000000000
 P _wing/1/_Ctip 5.000000000
-P _wing/1/_afl_file_1 Clark-Y (good propeller).afl
-P _wing/1/_afl_file_2 Clark-Y (good propeller).afl
-P _wing/1/_afl_file_3 Clark-Y (good propeller).afl
+P _wing/1/_afl_file_1 NACA 2412 (popular).afl
+P _wing/1/_afl_file_2 NACA 2412 (popular).afl
+P _wing/1/_afl_file_3 NACA 2412 (popular).afl
 P _wing/1/_ailn1/0 0
 P _wing/1/_ailn1/1 0
 P _wing/1/_ailn1/2 0
@@ -7272,8 +7272,8 @@ P _wing/1/_incidence/2 2.000000000
 P _wing/1/_incidence/3 2.000000000
 P _wing/1/_incidence/4 2.000000000
 P _wing/1/_incidence/5 2.000000000
-P _wing/1/_incidence/6 0.000000000
-P _wing/1/_incidence/7 0.000000000
+P _wing/1/_incidence/6 2.000000000
+P _wing/1/_incidence/7 2.000000000
 P _wing/1/_incidence/8 0.000000000
 P _wing/1/_incidence/9 0.000000000
 P _wing/1/_incidence/count 10
@@ -14225,10 +14225,10 @@ P acf/_cdi_auto_crs_gps0 0
 P acf/_cdi_auto_crs_gps1 0
 P acf/_cgX_lft -0.500000000
 P acf/_cgX_rgt 0.500000000
-P acf/_cgY 0.000000000
-P acf/_cgZ 8.140000343
-P acf/_cgZ_aft 8.739999771
-P acf/_cgZ_fwd 6.530000210
+P acf/_cgY -0.500000000
+P acf/_cgZ 6.739999771
+P acf/_cgZ_aft 7.349999905
+P acf/_cgZ_fwd 5.639999866
 P acf/_cg_in_mac 1
 P acf/_chaff_max 0
 P acf/_chute_line_len/0 0.000000000
@@ -15663,7 +15663,7 @@ P acf/_ground_pwr/2 0.000000000
 P acf/_ground_pwr/count 3
 P acf/_gyro_spooldown_time 60.000000000
 P acf/_gyro_spoolup_time 5.000000000
-P acf/_h_eqlbm 4.594044209
+P acf/_h_eqlbm 4.417992115
 P acf/_has_ADG 0
 P acf/_has_APU_bleed_air 0
 P acf/_has_APU_generator 0
@@ -16426,7 +16426,7 @@ P acf/_tank_xyz_full/8,1 0.000000000
 P acf/_tank_xyz_full/8,2 0.000000000
 P acf/_tank_xyz_full/i_count 9
 P acf/_tank_xyz_full/j_count 3
-P acf/_the_eqlbm 13.206805229
+P acf/_the_eqlbm 12.374107361
 P acf/_thro_non_vect_props_at_sin_vect 0
 P acf/_thro_x_ctr 0.000000000
 P acf/_throt_max_fwd_emr 0.000000000
