@@ -18,9 +18,11 @@ draw = function()
     local cc_avionics_on = get(cc_avionics)
     local main_battery = get(sim_main_battery)
     local tablet_power = get(cc_gps_tablet_power)
-    local avitab_enabled = get(globalProperty("avitab/panel_enabled"))
+    local avitab_enabled = get(avi_panel_enabled)
 
-    if (cc_avionics_on == 1 and main_battery == 1 and tablet_power == 1 and avitab_enabled == 0) then
+    sasl.logInfo(cc_avionics_on, main_battery, tablet_power, avitab_enabled)
+
+    if (cc_avionics_on == 1 and main_battery == 1 and tablet_power == 1) then
         -- drawAll(components)
         set(avi_panel_enabled, 1)
     else
